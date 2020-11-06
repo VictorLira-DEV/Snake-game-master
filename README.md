@@ -1,7 +1,6 @@
 # 🐍 Snake game master
-<h1 align="center" >
-    <img src="./images/imagem-1.jpg" height="300px">
-</h1>
+
+![](images/imagem-1.JPG)
 
 # Sections
 - [about](#-About)
