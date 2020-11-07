@@ -1,6 +1,8 @@
 # 🐍 Snake game master
 
-![](images/imagem-1.JPG)
+<h1 align="center">
+   <img src="https://ik.imagekit.io/mcvhbcq4zu/Animated_GIF-downsized_large__1__RYMX84ta0.gif">
+</h1>
 
 # Sections
 - about
