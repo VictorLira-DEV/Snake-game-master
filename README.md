@@ -10,7 +10,7 @@
 - how to download this project
 ##  About
 
-the intention in this project was to recreate the classic snake game, and we tried to make it as simple as possible. delevoped by "**web dev simplified**" replied by **Victor lira dev**. in order to put into practice my javascript skills
+the intention in this project was to recreate the classic snake game, and we tried to make it as simple as possible. delevoped by "**web dev simplified**" replicates by **Victor lira dev**. in order to put into practice my javascript skills
 
 ---
  
