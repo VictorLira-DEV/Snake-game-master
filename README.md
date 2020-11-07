@@ -3,9 +3,9 @@
 ![](images/imagem-1.JPG)
 
 # Sections
-- [about](#-About)
-- [technologies](#-technologies)
-- [how to download this project](#-how-to-download-this-Project)
+- about
+- technologies
+- how to download this project
 ##  About
 
 the intention in this project was to recreate the classic snake game, and we tried to make it as simple as possible. delevoped by "**web dev simplified**" replied by **Victor lira dev**. in order to put into practice my javascript skills
