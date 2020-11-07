@@ -31,4 +31,5 @@ the project was developed using the following technologies
     #start the project
     $ yarn start
 ```
-Developed by Victor Lira 
+Created by **web dev simplified** <br>
+Developed by **Victor Lira**
