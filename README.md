@@ -20,7 +20,6 @@ the project was developed using the following technologies
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-run this project with live server
 
 Created by **web dev simplified** <br>
 Developed by **Victor Lira**
