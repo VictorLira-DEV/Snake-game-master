@@ -4,6 +4,9 @@
    <img src="https://ik.imagekit.io/mcvhbcq4zu/Animated_GIF-downsized_large__4__FD9AGokKJ.gif">
 </h1>
 
+# Important
+take a look --> https://snake-game-master.vercel.app/
+
 # Sections
 - about
 - technologies
